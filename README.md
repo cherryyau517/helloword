@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451 !!!!!!! :D
 
-This is an example of a GitHub repository.
+(c) 2022 Cherry Yau Copyright
